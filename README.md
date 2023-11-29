@@ -1,1 +1,1 @@
-// main branch
+// This is the readme file of PRE-KDU-1 branch
