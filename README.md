@@ -1,1 +1,1 @@
-// This is the readme file.
+// Exercise 2: Java Collections
